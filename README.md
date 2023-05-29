@@ -12,7 +12,10 @@ Here are some ideas to get you started:-->
 
   🔭 I’m Gabriella and i'm a computer science student at UTBM. 
 
+- My aim here is to share my school projects, personal projects and various concepts to show my work and help others.
+
 - Intrested in various field of studies such as data science, networking and cyber security
+
 - 🌱 I’m currently working on a cyber security project which requires my to create a cetification authority and create a secured Https connection with a certificate, stay tuned.
 
 - 💬 Ask me about the different approaches i took in my various projects
