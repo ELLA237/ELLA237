@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 
 - Intrested in various field of studies such as data science, networking and cyber security
 
-- 🌱 I’m currently working on a cyber security project which requires my to create a cetification authority and create a secured Https connection with a certificate, stay tuned.
+- 🌱 I’m currently working on a cyber security project which requires me to create a cetification authority and create a secured Https connection with a certificate, stay tuned.
 
 - 💬 Ask me about the different approaches i took in my various projects
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/gabriella-ndjamba-batomen-807a05216)
